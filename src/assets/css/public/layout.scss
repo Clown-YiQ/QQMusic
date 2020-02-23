@@ -1,0 +1,27 @@
+.el-main{
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
+    background-color: #fafafa;
+    // overflow: unset;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+.el-header{
+    background: #fff;
+    width: 100%;
+    font-size: 12px;
+    .q-header{
+        width: 1250px;
+        padding-right: 10px;
+        margin: 0 auto;
+    }
+}   
+.el-footer{
+    padding:0px;
+}
